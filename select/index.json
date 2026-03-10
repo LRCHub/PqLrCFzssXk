@@ -1,0 +1,304 @@
+{
+  "version": 1,
+  "base_track": "Best Friends",
+  "base_artist": "川村ゆみ",
+  "createdAt": "2026-03-10T14:59:31.694870Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "All My Best Friends Are Metalheads",
+      "artist": "Less Than Jake",
+      "has_synced": true,
+      "path": "select/01_All_My_Best_Friends_Are_Metalheads_Less_Than_Jake.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Best Friends (feat. Aaliyah)",
+      "artist": "Missy Elliott feat. Aaliyah",
+      "has_synced": true,
+      "path": "select/02_Best_Friends_(feat._Aaliyah)_Missy_Elliott_feat._Aaliyah.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Best Friends (feat. Aaliyah)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/03_Best_Friends_(feat._Aaliyah)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Best Friends",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/04_Best_Friends_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "We Can Be Best Friends Tonight, But Tomorrow I'll Be...",
+      "artist": "Tokyo Rose",
+      "has_synced": false,
+      "path": "select/05_We_Can_Be_Best_Friends_Tonight,_But_Tomorrow_I'll_Be..._Tokyo_Rose.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Best Friend's Arm",
+      "artist": "Pavement",
+      "has_synced": true,
+      "path": "select/06_Best_Friend's_Arm_Pavement.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "My Best Friend's Girl",
+      "artist": "The Cars",
+      "has_synced": true,
+      "path": "select/07_My_Best_Friend's_Girl_The_Cars.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Best Friends",
+      "artist": "BASIA",
+      "has_synced": true,
+      "path": "select/08_Best_Friends_BASIA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dog's A Best Friend's Dog",
+      "artist": "Tears for Fears",
+      "has_synced": true,
+      "path": "select/09_Dog's_A_Best_Friend's_Dog_Tears_for_Fears.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dog's a Best Friend's Dog",
+      "artist": "Tears for Fears",
+      "has_synced": true,
+      "path": "select/10_Dog's_a_Best_Friend's_Dog_Tears_for_Fears.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "My Best Friend's Girl",
+      "artist": "The Cars",
+      "has_synced": true,
+      "path": "select/11_My_Best_Friend's_Girl_The_Cars.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Best Friends",
+      "artist": "Froggy Fresh",
+      "has_synced": true,
+      "path": "select/12_Best_Friends_Froggy_Fresh.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Best Friends",
+      "artist": "HOLYCHILD",
+      "has_synced": true,
+      "path": "select/13_Best_Friends_HOLYCHILD.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "My Best Friends (Don't Even Pass This)",
+      "artist": "Kurt Vile",
+      "has_synced": true,
+      "path": "select/14_My_Best_Friends_(Don't_Even_Pass_This)_Kurt_Vile.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "You're My Best Friends",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/15_You're_My_Best_Friends_Queen.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "best friends",
+      "artist": "スフィア",
+      "has_synced": false,
+      "path": "select/16_best_friends_スフィア.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "best friends",
+      "artist": "Sphere",
+      "has_synced": false,
+      "path": "select/17_best_friends_Sphere.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Best Friend",
+      "artist": "Rex Orange County",
+      "has_synced": true,
+      "path": "select/18_Best_Friend_Rex_Orange_County.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Best Thing Since Backroads",
+      "artist": "Jake Owen",
+      "has_synced": true,
+      "path": "select/19_Best_Thing_Since_Backroads_Jake_Owen.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "She Got the Best of Me",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/20_She_Got_the_Best_of_Me_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "The Best - Edit",
+      "artist": "Tina Turner",
+      "has_synced": true,
+      "path": "select/21_The_Best_-_Edit_Tina_Turner.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Best Kinda Bad",
+      "artist": "Walker McGuire",
+      "has_synced": true,
+      "path": "select/22_Best_Kinda_Bad_Walker_McGuire.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Best of Intentions",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/23_Best_of_Intentions_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Best Of Intentions (Album Version)",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/24_Best_Of_Intentions_(Album_Version)_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Best Shot",
+      "artist": "Jimmie Allen",
+      "has_synced": true,
+      "path": "select/25_Best_Shot_Jimmie_Allen.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Best Shot (Acoustic)",
+      "artist": "Jimmie Allen",
+      "has_synced": true,
+      "path": "select/26_Best_Shot_(Acoustic)_Jimmie_Allen.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Best of All Possible Worlds",
+      "artist": "Kris Kristofferson",
+      "has_synced": false,
+      "path": "select/27_Best_of_All_Possible_Worlds_Kris_Kristofferson.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "I Will Always Love You (from the Original Motion Picture Soundtrack Album, \"The Best Little Whorehouse In Texas\")",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/28_I_Will_Always_Love_You_(from_the_Original_Motion_Picture_Soundtrack_Album,__The__Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "My Best Friend",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/29_My_Best_Friend_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "My Best Thinkin'",
+      "artist": "Clint Black",
+      "has_synced": true,
+      "path": "select/30_My_Best_Thinkin'_Clint_Black.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "The Best Day",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/31_The_Best_Day_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "The Best Day (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/32_The_Best_Day_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "The Best Day (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/33_The_Best_Day_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "The Best Year Of My Life",
+      "artist": "Eddie Rabbitt",
+      "has_synced": true,
+      "path": "select/34_The_Best_Year_Of_My_Life_Eddie_Rabbitt.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "You're My Best Friend",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/35_You're_My_Best_Friend_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "You're My Best Friend (Single Version)",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/36_You're_My_Best_Friend_(Single_Version)_Don_Williams.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Best Friends",
+      "artist": "川村ゆみ",
+      "has_synced": false,
+      "path": "select/pl_01_Best_Friends_川村ゆみ.txt"
+    }
+  ]
+}
